@@ -6,4 +6,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-text for rebasing example
+text for rebasing example, more changes from myfeature branch
