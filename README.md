@@ -11,3 +11,6 @@ Commit and push this to the repo.
 
 ## Commit Me
 Commit without a push.
+
+## Stage Me
+Add without a commit.
