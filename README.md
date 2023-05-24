@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Push Me
 Commit and push this to the repo.
+
+## Commit Me
+Commit without a push.
